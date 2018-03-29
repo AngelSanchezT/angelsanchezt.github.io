@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-clean-blog
+permalink: /blog/:year/:month/:day/:title
 title: Hola, Soy Angel Sanchez Tenjo
 description: Un programador no nace, se hace y siempre esta en continuo aprendizaje. <br />Programador FullStack Java
 repository: AngelSanchezT/angelsanchezt.github.io
