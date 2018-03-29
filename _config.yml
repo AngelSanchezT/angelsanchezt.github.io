@@ -1,6 +1,29 @@
 #theme: jekyll-theme-cayman
 theme: jekyll-theme-clean-blog
-permalink: /blog/:year/:month/:day/:title
-title: Hola, Soy Angel Sanchez Tenjo
-description: Un programador no nace, se hace y siempre esta en continuo aprendizaje. <br />Programador FullStack Java
+#permalink: /blog/:year/:month/:day/:title
 repository: AngelSanchezT/angelsanchezt.github.io
+title: Hola, Soy Angel Sanchez Tenjo
+email: ajsanchez22@gmail.com
+description: Programador FullStack Java<p><i>Un programador no nace, se hace y siempre está en continuo aprendizaje.</i></p>
+author: AngelSanchezT
+baseurl: "/"
+#url: "http://blackrockdigital.github.io"
+
+# Social Profiles
+twitter_username:  AngelSanchezT
+github_username:   AngelSanchezT
+#facebook_username: StartBootstrap
+
+
+# Build settings
+copyright_name: Jamal Boulhous
+markdown: kramdown
+paginate: 5
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
