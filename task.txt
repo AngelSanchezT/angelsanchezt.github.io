@@ -6,6 +6,11 @@ TEMAS - CATAGORIAS - BLOG
 - Cloud Native Java
 - Como administrar un proyecto en Github (Agile y colaborativo)
 
+Ejemplos:
+https://github.com/github/opensource.guide/blob/master/_config.yml
+https://devhints.io/jekyll-github
+https://github.com/rstacruz/cheatsheets
+
 
 Links
 http://jmcglone.com/guides/github-pages/
@@ -14,7 +19,6 @@ https://worldping.docs.apiary.io/#introduction/general-response-format
 https://www.software.ac.uk/generating-google-maps-out-google-spreadsheets
 http://www.webchick.net/node/132
 https://www.makeuseof.com/tag/7-ways-to-make-a-google-map-using-google-spreadsheet-data/
-
 
 http://www.uberbin.net/archivos/rants/este-post-es-el-primero.php | Este post es el primero
 http://www.uberbin.net/autor | Acerca de Mariano Amartino - Denken Über
