@@ -75,3 +75,12 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+.site-avatar {
+  #float: left;
+  width: 200px;
+  height: 200px;
+  #margin-right: 100px;
+  border-radius: 50%;
+  opacacy: 0.5;
+}

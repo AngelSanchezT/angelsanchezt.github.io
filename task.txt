@@ -1,3 +1,8 @@
+Comandos:
+bundle exec jekyll serve
+
+
+
 TEMAS - CATAGORIAS - BLOG
 - Java 10
 - Java 9
@@ -7,9 +12,34 @@ TEMAS - CATAGORIAS - BLOG
 - Como administrar un proyecto en Github (Agile y colaborativo)
 
 Ejemplos:
+
 https://github.com/github/opensource.guide/blob/master/_config.yml
 https://devhints.io/jekyll-github
 https://github.com/rstacruz/cheatsheets
+https://medium.com/@raulvillares/c%C3%B3digo-sucio-23bf9cdeaf63
+http://www.uberbin.net/archivos/rants/este-post-es-el-primero.php | Este post es el primero
+https://eddiejaoude.github.io/
+
+https://eddiejaoude.github.io/book-open-source-tips/index-es.html
+
+https://github.com/barryclark/jekyll-now/blob/master/_config.yml
+
+
+https://24pullrequests.com/projects
+
+http://bashooka.com/cms/best-wordpress-resume-themes/
+
+
+http://www.kennybastani.com/search/label/cloud%20native%20java
+https://spring.io/blog/2016/09/12/springone-platform-2016-replay-cloud-native-java
+https://pivotal.io/spring-app-framework
+https://github.com/cloud-native-java
+
+https://www.generation.org/blog/
+https://www.generation.org/que-es-rpa/
+
+
+
 
 
 Links
