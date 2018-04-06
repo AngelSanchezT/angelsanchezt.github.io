@@ -1,21 +1,28 @@
 Comandos:
+------------
 bundle exec jekyll serve
 
 
-
+------------
 TEMAS - CATAGORIAS - BLOG
+------------
 - Java 10
 - Java 9
 - Libros resumenes
 - JavaScript
 - Cloud Native Java
 - Como administrar un proyecto en Github (Agile y colaborativo)
+- Clean Architecture
 
-Ejemplos:
 
+----------
+EJEMPLOS
+----------
+https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/
 http://jekyllthemes.org/
-
+http://latamdigital.softtek.co/
 https://nrandecker.github.io/particle/
+https://www.asesoriaensig.com.mx/blog/
 
 https://github.com/github/opensource.guide/blob/master/_config.yml
 https://devhints.io/jekyll-github
