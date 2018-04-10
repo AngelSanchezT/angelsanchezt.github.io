@@ -15,14 +15,24 @@ TEMAS - CATAGORIAS - BLOG
 - Clean Architecture
 
 
+-----------
+CURSOS
+-----------
+https://devcode.la/cursos/curso-basico-de-responsive-web-design/#clases/curso-basico-de-responsive-web-design/introduccion
+
+
 ----------
 EJEMPLOS
 ----------
+https://pixelgrade.com/blog/
+https://www.karlonc.com/
 https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/
+https://pixelgrade.com/blog/culture/start-a-blog-to-reach-your-creative-peak/
 http://jekyllthemes.org/
 http://latamdigital.softtek.co/
 https://nrandecker.github.io/particle/
 https://www.asesoriaensig.com.mx/blog/
+https://www.lomejordewp.com/mejores-temas-wordpress-portafolios-creativos/
 
 https://github.com/github/opensource.guide/blob/master/_config.yml
 https://devhints.io/jekyll-github
