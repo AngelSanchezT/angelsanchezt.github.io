@@ -9,21 +9,40 @@ TEMAS - CATAGORIAS - BLOG
 - Java 10
 - Java 9
 - Libros resumenes
-- JavaScript
+- JavaScript / NodeJS
 - Cloud Native Java
 - Como administrar un proyecto en Github (Agile y colaborativo)
 - Clean Architecture
+
+
 
 
 -----------
 CURSOS
 -----------
 https://devcode.la/cursos/curso-basico-de-responsive-web-design/#clases/curso-basico-de-responsive-web-design/introduccion
+https://www.edx.org/es/course/web-app-development-with-the-power-of-nodejs
+https://www.w3schools.com/nodejs/default.asp
+https://www.nodebeginner.org/index-es.html
 
 
 ----------
 EJEMPLOS
 ----------
+http://startit.select-themes.com/
+http://startit.select-themes.com/landing/
+
+https://ingenieriadesoftware.es/12-simples-pasos-mejor-codigo-test-joel/
+https://www.genbetadev.com/trabajar-como-desarrollador/los-14-podcasts-de-desarrollo-en-espanol-que-merece-la-pena-seguir
+
+https://github.com/thinkphp/nodejs-books/tree/master/public
+https://github.com/sergtitov/NodeJS-Learning
+https://devfreebooks.github.io/
+https://github.com/Pana/node-books
+
+http://www.programaresunamierda.com/2018/04/episodio-24-cicd.html
+
+https://www.netguru.co/blog/10-nodejs-books
 https://pixelgrade.com/blog/
 https://www.karlonc.com/
 https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/
@@ -1487,4 +1506,8 @@ https://www.google.com.co/search?q=liderazgo+iso+14001&oq=Liderazgo+iso&aqs=chro
 http://www.nueva-iso-14001.com/5-1-liderazgo-y-compromiso/ | 5.1 Liderazgo y compromiso - Nueva ISO 14001
 https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall/related?hl=es | OneTab - Chrome Web Store
 
+
+
+https://ingenieriadesoftware.es/mejores-podcasts-programacion-espanol/
+http://wedevelopers.com/
 

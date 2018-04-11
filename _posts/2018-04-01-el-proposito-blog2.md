@@ -12,7 +12,9 @@ Bienvenido a este pequeño espacio en la Internet, quiero comentar estimado lect
 > "El éxito es conocer tu propósito en la vida, crecer para alcanzar tu máximo potencial y sembrar la semilla que beneficie a otros."
 > ***John C. Maxwell.***
 
-#### Conocer el desarrollo como proposito de vida
+#### Conocer tu propósito en la vida
+
+
 
 #### Crecer para desarrollar el potencial como desarrolladores
 
