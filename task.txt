@@ -15,7 +15,7 @@ TEMAS - CATAGORIAS - BLOG
 - Clean Architecture
 
 
-
+https://gist.github.com/
 
 -----------
 CURSOS
@@ -29,6 +29,22 @@ https://www.nodebeginner.org/index-es.html
 ----------
 EJEMPLOS
 ----------
+
+https://www.sintetia.com/domando-a-los-hipopotamos-el-camino-hacia-el-lean-startup-de-eric-ries/ [VER]
+
+https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#%C3%8Dndice
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md
+
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#scala
+
+https://github.com/aashack/programming_in_scala_2nd/blob/master/Programming%20in%20Scala%2C%202nd%20edition%20(Artima%2C%202011%2C%200981531644)(1).pdf
+
+https://naildrivin5.com/scalatour/
+https://underscore.io/books/scala-with-cats/
+https://github.com/twitter/effectivescala
+
+
+
 http://startit.select-themes.com/
 http://startit.select-themes.com/landing/
 https://picjumbo.com/free-photos/business/page/2/
