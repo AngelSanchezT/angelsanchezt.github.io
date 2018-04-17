@@ -1,3 +1,5 @@
+
+
 Comandos:
 ------------
 bundle exec jekyll serve
@@ -14,6 +16,7 @@ TEMAS - CATAGORIAS - BLOG
 - Como administrar un proyecto en Github (Agile y colaborativo)
 - Clean Architecture
 
+https://wwwhatsnew.com/2018/04/12/las-tendencias-de-programacion-en-las-empresas-en-2018/
 
 https://gist.github.com/
 
@@ -29,7 +32,13 @@ https://www.nodebeginner.org/index-es.html
 ----------
 EJEMPLOS
 ----------
-
+http://themes.muffingroup.com/be/universe/
+http://themes.muffingroup.com/be/blogger2/
+http://themes.muffingroup.com/be/theme/blog/masonry-blog-style/?mfn-s
+http://themes.muffingroup.com/be/journalist/
+http://themes.muffingroup.com/be/splash/
+http://themes.muffingroup.com/be/theme/content-builder-for-posts/
+http://themes.muffingroup.com/be/code/etiam-tempor-eros-ipsum-mauris-ac-quam-at-lacus-diam-vel-wisi/
 https://www.sintetia.com/domando-a-los-hipopotamos-el-camino-hacia-el-lean-startup-de-eric-ries/ [VER]
 
 https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#%C3%8Dndice
