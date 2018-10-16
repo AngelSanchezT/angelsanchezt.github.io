@@ -1,5 +1,4 @@
 
-
 Comandos:
 ------------
 bundle exec jekyll serve
