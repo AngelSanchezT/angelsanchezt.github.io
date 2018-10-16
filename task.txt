@@ -16,6 +16,9 @@ TEMAS - CATAGORIAS - BLOG
 - Como administrar un proyecto en Github (Agile y colaborativo)
 - Clean Architecture
 
+
+https://github.com/iRaul/awesome-portfolios
+
 https://wwwhatsnew.com/2018/04/12/las-tendencias-de-programacion-en-las-empresas-en-2018/
 
 https://gist.github.com/
