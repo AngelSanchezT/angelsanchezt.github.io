@@ -4,10 +4,10 @@ theme: jekyll-theme-clean-blog
 repository: AngelSanchezT/angelsanchezt.github.io
 
 # Name of your site (displayed in the header)
-title: Hola, Soy Angel Sanchez Tenjo
+title: Hola, Soy Angel Sanchez Tenjo 🔋
 
 # Short bio or description (displayed in the header)
-description: Programador FullStack Java<p><i>Un programador no nace, se hace y siempre está en continuo aprendizaje.</i></p>
+description: <p><i>Un programador no nace, se hace y siempre está en continuo aprendizaje. ➶ </i></p>
 author: AngelSanchezT
 email: ajsanchez22@gmail.com
 baseurl: "/"

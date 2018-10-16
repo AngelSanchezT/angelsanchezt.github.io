@@ -11,15 +11,19 @@ layout: default
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <!--<img class="site-avatar" src="{{ site.avatar }}" />-->
-            <h2>{{ site.title }}</h2>
-            {% if site.description %}
-              <span class="subheading">{{ site.description }}</span>
-            {% endif %}
-          </div>
-        </div>
+        <!--<div class="col-lg-8 col-md-10 mx-auto">-->
+          <div class="page-heading row">              
+                <div class="col-sm-4">
+                  <img class="site-avatar" src="img/full-stack-developer.png" />
+                </div>
+                <div class="col-sm-8">
+                  <h2>{{ site.title }}</h2>
+                  {% if site.description %}
+                    <span class="subheading">{{ site.description }}</span>
+                  {% endif %}
+                </div>
+            </div>
+        <!--</div>-->
       </div>
     </div>
   </header>
