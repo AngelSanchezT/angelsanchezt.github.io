@@ -1,4 +1,3 @@
-
 Comandos:
 ------------
 bundle exec jekyll serve
@@ -17,6 +16,7 @@ TEMAS - CATAGORIAS - BLOG
 
 
 https://github.com/iRaul/awesome-portfolios
+
 
 https://wwwhatsnew.com/2018/04/12/las-tendencias-de-programacion-en-las-empresas-en-2018/
 
