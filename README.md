@@ -12,3 +12,4 @@ TEMAS - CATAGORIAS - BLOG
 - Cloud Native Java
 - Como administrar un proyecto en Github (Agile y colaborativo)
 - Clean Architecture
+- API Gateway
