@@ -30,6 +30,11 @@ https://www.edx.org/es/course/web-app-development-with-the-power-of-nodejs
 https://www.w3schools.com/nodejs/default.asp
 https://www.nodebeginner.org/index-es.html
 
+----------
+IMAGENES
+----------
+https://pixabay.com/es/macbook-port%C3%A1til-oficina-en-casa-336704/
+
 
 ----------
 EJEMPLOS
