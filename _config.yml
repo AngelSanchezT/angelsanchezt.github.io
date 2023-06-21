@@ -1,9 +1,11 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title: Hola, Soy Angel Sanchez Tenjo 🔋
+email: ajsanchez22@gmail.com
+description: <p><i>Un programador no nace, se hace y siempre está en continuo aprendizaje. ➶ </i></p>
+author: AngelSanchezT
+baseurl: "/"
+# url: "https://startbootstrap.github.io"
+
+repository: AngelSanchezT/angelsanchezt.github.io
 
 # Social Profiles
 twitter_username:   SBootstrap
