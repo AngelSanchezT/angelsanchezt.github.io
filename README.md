@@ -17,3 +17,6 @@ TEMAS - CATAGORIAS - BLOG
 
 MSYS2 could not be found. Please run 'ridk install'
 or download and install MSYS2 manually from https://msys2.github.io/
+
+
+TEST
