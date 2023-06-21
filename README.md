@@ -13,3 +13,7 @@ TEMAS - CATAGORIAS - BLOG
 - Como administrar un proyecto en Github (Agile y colaborativo)
 - Clean Architecture
 - API Gateway
+
+
+MSYS2 could not be found. Please run 'ridk install'
+or download and install MSYS2 manually from https://msys2.github.io/
