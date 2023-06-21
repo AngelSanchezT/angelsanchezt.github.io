@@ -8,11 +8,12 @@ baseurl: "/"
 repository: AngelSanchezT/angelsanchezt.github.io
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   AngelSanchezT
+github_username:    AngelSanchezT
+linkedin_username: AngelSanchezT
+# facebook_username:  
+# instagram_username:  
+
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
