@@ -1,37 +1,28 @@
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-clean-blog
-#permalink: /blog/:year/:month/:day/:title
-repository: AngelSanchezT/angelsanchezt.github.io
-
-# Name of your site (displayed in the header)
 title: Hola, Soy Angel Sanchez Tenjo 🔋
-
-# Short bio or description (displayed in the header)
+email: ajsanchez22@gmail.com
 description: <p><i>Un programador no nace, se hace y siempre está en continuo aprendizaje. ➶ </i></p>
 author: AngelSanchezT
-email: ajsanchez22@gmail.com
 baseurl: "/"
+# url: "https://startbootstrap.github.io"
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-avatar: https://avatars2.githubusercontent.com/u/13964664?s=460&v=4
-#url: "http://blackrockdigital.github.io"
+repository: AngelSanchezT/angelsanchezt.github.io
 
 # Social Profiles
-twitter_username:  AngelSanchezT
-github_username:   AngelSanchezT
-#facebook_username: StartBootstrap
+twitter_username:   AngelSanchezT
+github_username:    AngelSanchezT
+linkedin_username: AngelSanchezT
+# facebook_username:  
+# instagram_username:  
 
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-copyright_name: Jamal Boulhous
-markdown: kramdown
-paginate: 5
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate_path: "/posts/page:num/"
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
